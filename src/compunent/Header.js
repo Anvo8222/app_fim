@@ -11,7 +11,6 @@ class Header extends Component {
                 <Link to="/" className="header__logo">
                     <img className="header__logo-img" src="./assets/img/logo.png" alt="Logo" />
                 </Link>
-
                 <div className="header__list">
                     <ul className="header__menu-items">
                         <Link to="Filler" className="header__menu-item header__menu-item-category">
